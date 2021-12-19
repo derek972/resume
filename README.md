@@ -1,4 +1,4 @@
-### Incomplete formatting as of December 18, 2021*
+### Incomplete formatting as of December 18, 2021
 # <h1 align="center">Derek Ritsch</h1> 
 <p align="center">derekritsch@gmail.com | linkedin.com/in/derekritsch</p>
 
